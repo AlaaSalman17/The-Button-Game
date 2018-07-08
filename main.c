@@ -19,9 +19,6 @@ int main(void)
 	GPIO_Init();
 	BTN_Init();
 	int i=0,j=7;
-	int Pressed = 0;
-	int Pressed_Confidence_Level = 0; //Measure button press cofidence
-	int Released_Confidence_Level = 0; //Measure button release confidence
 	while(1){
 		if(ButtonPressed(0))
 		{
