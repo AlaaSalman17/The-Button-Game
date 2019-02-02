@@ -6,4 +6,3 @@
         17 Pull 300 ohm Resistor
         25 Jumber
         AVR Atmega32
-# The Hardware flexibility is due to the CFG files. This method belongs to eng. Hossam Khiary.
